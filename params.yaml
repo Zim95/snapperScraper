@@ -1,0 +1,15 @@
+url: https://www.snapper.com
+products_url: https://www.snapper.com/na/en_us/products.html
+links:
+  - //div[@class='heading parbase section']/h3/a/@href
+product: //a[@class='carousel-products-item']/@href
+product_info:
+    description: //div[@class='product-detail-text']/p[2]/text()
+    specs: //table[@class='table table-striped']/tbody/tr
+    features: //div[@class='row']/div[@class='col-sm-6']/div[@class='two-wide-category-teaser']/*[preceding-sibling::div]/text()
+    categories: //div[@class='breadcrumbs']/div[@class='container']/ol[@class='breadcrumb']
+
+# User handled specs:
+allow_download: false
+json_output: 'snapper_output.json'
+csv_output: 'snapper_output.csv'

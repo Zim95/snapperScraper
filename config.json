@@ -1,0 +1,482 @@
+{
+  "Fuel Tank Capacity (oz)": {
+    "category": "operational",
+    "name": "fuelTankCapacity"
+  },
+  "CAN MAP (Minimum Advertised Price)": {
+    "category": "product specific",
+    "name": "msrp"
+  },
+  "US MAP (Minimum Advertised Price)^": {
+    "category": "product specific",
+    "name": "msrp"
+  },
+  "Transmission Differential": {
+    "category": "engineAndDriveTrain",
+    "name": "transmissionDifferential"
+  },
+  "Hour Meter": {
+    "category": "other",
+    "name": "hourMeter"
+  },
+  "Drive System": {
+    "category": "other",
+    "name": "driveSystem"
+  },
+  "ROPS (Roll Over Protective Structure)": {
+    "category": "other",
+    "name": "rOPS"
+  },
+  "Fabricated Mower Deck Warranty †": {
+    "category": "other",
+    "name": "fabricatedMowerDeckWarranty"
+  },
+  "Assembled Height (in)": {
+    "category": "dimensions",
+    "name": "assembledHeight"
+  },
+  "Torque (ft-lbs, gross) *": {
+    "category": "engineAndDriveTrain",
+    "name": "torque"
+  },
+  "Engine Brand": {
+    "category": "engineAndDriveTrain",
+    "name": "engineBrand"
+  },
+  "Product Warranty †": {
+    "category": "other",
+    "name": "productWarranty"
+  },
+  "Cargo Bed **": {
+    "category": "other",
+    "name": "cargoBed"
+  },
+  "Blade Engagement": {
+    "category": "engineAndDriveTrain",
+    "name": "bladeEngagement"
+  },
+  "Tine Quantity/Diameter (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "tineQuantityDiameter"
+  },
+  "OHV": {
+    "category": "other",
+    "name": "oHV"
+  },
+  "Height-of-Cut Positions": {
+    "category": "engineAndDriveTrain",
+    "name": "height-of-CutPositions"
+  },
+  "Blade Material": {
+    "category": "other",
+    "name": "bladeMaterial"
+  },
+  "Bar": {
+    "category": "dimensions",
+    "name": "bar"
+  },
+  "Height Adjustment": {
+    "category": "dimensions",
+    "name": "heightAdjustment"
+  },
+  "CAN MAP (Minimum Advertised Price)^": {
+    "category": "product specific",
+    "name": "msrp"
+  },
+  "Auger Diameter (in)": {
+    "category": "dimensions",
+    "name": "augerDiameter"
+  },
+  "Deck Suspension": {
+    "category": "other",
+    "name": "deckSuspension"
+  },
+  "Fan Style": {
+    "category": "other",
+    "name": "fanStyle"
+  },
+  "Throwing Distance (ft)**": {
+    "category": "engineAndDriveTrain",
+    "name": "throwingDistance"
+  },
+  "Max Voltage*": {
+    "category": "other",
+    "name": "maxVoltage"
+  },
+  "Rear Wheel Size (in)": {
+    "category": "dimensions",
+    "name": "rearWheelSize"
+  },
+  "Mulching": {
+    "category": "other",
+    "name": "mulching"
+  },
+  "HP (gross) *": {
+    "category": "engineAndDriveTrain",
+    "name": "hP"
+  },
+  "Comfort Grip Handle Bar": {
+    "category": "other",
+    "name": "comfortGripHandleBar"
+  },
+  "Mower Deck Lift": {
+    "category": "other",
+    "name": "mowerDeckLift"
+  },
+  "Handle Type": {
+    "category": "other",
+    "name": "handleType"
+  },
+  "Bagging": {
+    "category": "other",
+    "name": "bagging"
+  },
+  "Max Air Flow Speed (mph)": {
+    "category": "operational",
+    "name": "maxAirFlowSpeed"
+  },
+  "Brushless Motor Warranty †": {
+    "category": "other",
+    "name": "brushlessMotorWarranty"
+  },
+  "Cruise Control": {
+    "category": "engineAndDriveTrain",
+    "name": "cruiseControl"
+  },
+  "Ground Speed-Fwd (mph)": {
+    "category": "operational",
+    "name": "groundSpeed-Fwd"
+  },
+  "Shaft Style": {
+    "category": "engineAndDriveTrain",
+    "name": "shaftStyle"
+  },
+  "Starting System": {
+    "category": "other",
+    "name": "startingSystem"
+  },
+  "Clearing Depth (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "clearingDepth"
+  },
+  "Height-of-Cut (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "height-of-Cut"
+  },
+  "Cargo Bed Capacity†": {
+    "category": "operational",
+    "name": "cargoBedCapacity"
+  },
+  "Number of Cylinders": {
+    "category": "engineAndDriveTrain",
+    "name": "numberOfCylinders"
+  },
+  "Side Discharge": {
+    "category": "engineAndDriveTrain",
+    "name": "sideDischarge"
+  },
+  "CFM***": {
+    "category": "other",
+    "name": "cfm"
+  },
+  "Choke/Throttle": {
+    "category": "engineAndDriveTrain",
+    "name": "chokeThrottle"
+  },
+  "Chain Pitch (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "chainPitch"
+  },
+  "Product Warranty": {
+    "category": "other",
+    "name": "productWarranty"
+  },
+  "Gap": {
+    "category": "other",
+    "name": "gap"
+  },
+  "Air Flow Speed (mph)": {
+    "category": "operational",
+    "name": "airSpeed"
+  },
+  "Line / Diameter": {
+    "category": "dimensions",
+    "name": "lineDiameter"
+  },
+  "Armrest": {
+    "category": "other",
+    "name": "armrest"
+  },
+  "Blade Type": {
+    "category": "other",
+    "name": "bladeType"
+  },
+  "Speed Control": {
+    "category": "engineAndDriveTrain",
+    "name": "speedControl"
+  },
+  "Rear Bumper": {
+    "category": "other",
+    "name": "rearBumper"
+  },
+  "Deck Type": {
+    "category": "other",
+    "name": "deckType"
+  },
+  "Engine Displacement (cc)": {
+    "category": "engineAndDriveTrain",
+    "name": "engineDisplacement"
+  },
+  "Chain": {
+    "category": "other",
+    "name": "chain"
+  },
+  "Battery": {
+    "category": "other",
+    "name": "battery"
+  },
+  "Chain Oil Capacity (mL)": {
+    "category": "engineAndDriveTrain",
+    "name": "chainOilCapacity"
+  },
+  "Motor": {
+    "category": "engineAndDriveTrain",
+    "name": "motor"
+  },
+  "Brake": {
+    "category": "other",
+    "name": "brake"
+  },
+  "Front Axle": {
+    "category": "dimensions",
+    "name": "frontAxle"
+  },
+  "Anti-Scalp Wheels": {
+    "category": "other",
+    "name": "antiScalpWheels"
+  },
+  "Front Wheel Size (in)": {
+    "category": "dimensions",
+    "name": "frontWheelSize"
+  },
+  "Marketing Model": {
+    "category": "other",
+    "name": "marketingModel"
+  },
+  "Charge Time (min)": {
+    "category": "other",
+    "name": "chargeTime"
+  },
+  "Max/Min Tilling Width (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "maxMinTillingWidth"
+  },
+  "Cutting Width (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "cuttingWidth"
+  },
+  "Front Wheel Size": {
+    "category": "dimensions",
+    "name": "frontWheelSize"
+  },
+  "Blade Tip Protector": {
+    "category": "other",
+    "name": "bladeTipProtector"
+  },
+  "Wheels (in)": {
+    "category": "other",
+    "name": "wheels"
+  },
+  "Speeds (mph)": {
+    "category": "engineAndDriveTrain",
+    "name": "speeds"
+  },
+  "Chain Gauge (in)": {
+    "category": "other",
+    "name": "chainGauge"
+  },
+  "Battery Warranty †": {
+    "category": "other",
+    "name": "batteryWarranty"
+  },
+  "Engine Model": {
+    "category": "engineAndDriveTrain",
+    "name": "engineModel"
+  },
+  "Assembled Weight (lbs)": {
+    "category": "dimensions",
+    "name": "assembledWeight"
+  },
+  "Cutting Range (acre)": {
+    "category": "engineAndDriveTrain",
+    "name": "cuttingRange"
+  },
+  "Commercial Warranty (Product) †": {
+    "category": "other",
+    "name": "commercialWarranty"
+  },
+  "Rear Tires (in)": {
+    "category": "other",
+    "name": "rearTires"
+  },
+  "Dump Assist": {
+    "category": "other",
+    "name": "dumpAssist"
+  },
+  "Blade Length (in)": {
+    "category": "dimensions",
+    "name": "bladeLength"
+  },
+  "Engine Type": {
+    "category": "engineAndDriveTrain",
+    "name": "engineType"
+  },
+  "Frame": {
+    "category": "dimensions",
+    "name": "frame"
+  },
+  "Head Type": {
+    "category": "other",
+    "name": "headType"
+  },
+  "Steering": {
+    "category": "other",
+    "name": "steering"
+  },
+  "Ground Speed-Rev (mph)": {
+    "category": "operational",
+    "name": "groundSpeed-Rev"
+  },
+  "Transmission Type": {
+    "category": "engineAndDriveTrain",
+    "name": "transmissionType"
+  },
+  "Residential Warranty (Product) †": {
+    "category": "other",
+    "name": "residentialWarranty"
+  },
+  "Fuel Tank Capacity (gal)": {
+    "category": "operational",
+    "name": "fuelTankCapacity"
+  },
+  "Headlights": {
+    "category": "other",
+    "name": "headlights"
+  },
+  "Maintenance Monitor": {
+    "category": "other",
+    "name": "maintenanceMonitor"
+  },
+  "Clearing Width (in)": {
+    "category": "engineAndDriveTrain",
+    "name": "clearingWidth"
+  },
+  "Line/Diameter": {
+    "category": "dimensions",
+    "name": "lineDiameter"
+  },
+  "Front Tires (in)": {
+    "category": "dimensions",
+    "name": "frontTires"
+  },
+  "Weight Without Battery (lbs)": {
+    "category": "other",
+    "name": "weightWithoutBattery"
+  },
+  "Seat": {
+    "category": "other",
+    "name": "seat"
+  },
+  "Assembled Length (in)": {
+    "category": "dimensions",
+    "name": "assembledLength"
+  },
+  "Battery (cca)": {
+    "category": "other",
+    "name": "battery"
+  },
+  "US MAP (Minimum Advertised Price) ^": {
+    "category": "product specific",
+    "name": "msrp"
+  },
+  "Max CFM": {
+    "category": "operational",
+    "name": "maxCFM"
+  },
+  "Rear Wheel Size": {
+    "category": "dimensions",
+    "name": "rearWheelSize"
+  },
+  "Deck Style": {
+    "category": "other",
+    "name": "deckStyle"
+  },
+  "Number of Blades": {
+    "category": "engineAndDriveTrain",
+    "name": "numberOfBlades"
+  },
+  "Fuel Level Indicator": {
+    "category": "operational",
+    "name": "fuelLevelIndicator"
+  },
+  "Deck Construction": {
+    "category": "other",
+    "name": "deckConstruction"
+  },
+  "Run Time (min)**": {
+    "category": "engineAndDriveTrain",
+    "name": "runTime"
+  },
+  "Charger": {
+    "category": "other",
+    "name": "charger"
+  },
+  "Turning Radius": {
+    "category": "engineAndDriveTrain",
+    "name": "turningRadius"
+  },
+  "Spool Capacity (ft)": {
+    "category": "engineAndDriveTrain",
+    "name": "spoolCapacity"
+  },
+  "Model": {
+    "category": "general - Product Specific",
+    "name": "modelName"
+  },
+  "Mower Configuration": {
+    "category": "other",
+    "name": "mowerConfiguration"
+  },
+  "Assembled Width (in)": {
+    "category": "dimensions",
+    "name": "assembledWidth"
+  },
+  "Cutting Width": {
+    "category": "engineAndDriveTrain",
+    "name": "cuttingWidth"
+  },
+  "Bar Length": {
+    "category": "dimensions",
+    "name": "barLength"
+  },
+  "Chain Brake": {
+    "category": "other",
+    "name": "chainBrake"
+  },
+  "Mower Deck Type": {
+    "category": "other",
+    "name": "mowerDeckType"
+  },
+  "Starting Type": {
+    "category": "other",
+    "name": "startingType"
+  },
+  "Spindle": {
+    "category": "engineAndDriveTrain",
+    "name": "spindle"
+  },
+  "Cup Holder": {
+    "category": "other",
+    "name": "cupHolder"
+  }
+}
